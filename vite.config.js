@@ -4,5 +4,5 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/finalsmoodloctionProject/", // ต้องตรงกับชื่อ Repo บน GitHub
+  base: "/finalsmoodloction1/", // ต้องตรงกับชื่อ Repo บน GitHub
 });
